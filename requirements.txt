@@ -1,0 +1,11 @@
+conda install pytorch torchvision cpuonly -c pytorch
+conda install pytorch torchvision cpuonly -c pytorch
+
+pynrrd
+matplotlib
+SimpleITK
+scipy
+scikit-image
+pandas
+IPython
+sklearn
